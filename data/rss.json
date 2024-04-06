@@ -6,9 +6,5 @@
   {
     "title": "链捕手",
     "rss": "https://www.chaincatcher.com/rss/clist"
-  },
-  {
-    "title": "Node-Weekly",
-    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
   }
 ]

@@ -12,13 +12,12 @@
     "later": "^1.2.0",
     "moment": "^2.22.2",
     "query-string": "^6.8.1",
-    "rss-parser": "^3.4.3",
+    "rss-parser": "^3.13.0",
     "shelljs": "^0.8.5",
     "simple-git": "^3.17.0",
     "underscore": "^1.9.1"
   },
   "description": "front-end-rss",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

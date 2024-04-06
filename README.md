@@ -10,13 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-06 21:07:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-06 21:24:14，:rocket: 更新条数: +1489， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [星球日报ODAILY](#星球日报odaily)![](/assets/dot.png)   
-- [链捕手](#链捕手)  
-- [Node-Weekly](#node-weekly)  
+- [星球日报ODAILY](#星球日报odaily)  
+- [链捕手](#链捕手)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -57,22 +56,27 @@
 </summary>
 
 
+- [2024-04-06--Coinbase-将-Tensor-TNSR-列入上币路线图-](https://www.chaincatcher.com/article/2119654) ![](/assets/new.png)  
+- [2024-04-06--Web3-社交模拟游戏-Today-完成-500-万美元种子轮融资，Sfermion-和-Big-Brain-Holdings-领投-](https://www.chaincatcher.com/article/2119655) ![](/assets/new.png)  
+- [2024-04-06--EigenLayer-计划于-4-月-8-日对-EigenLayer-主网合约进行升级-](https://www.chaincatcher.com/article/2119656) ![](/assets/new.png)  
+- [2024-04-06--Terra-创始人-Do-Kwon-在美国民事欺诈案中被判有罪-](https://www.chaincatcher.com/article/2119658) ![](/assets/new.png)  
+- [2024-04-06--数据：做市商-GSR-向-Bybit-存入-520-万枚-ENA，仍持有-1463-万枚-](https://www.chaincatcher.com/article/2119659) ![](/assets/new.png)  
+- [2024-04-06--数据：4-月-5-日贝莱德-IBIT-净流入-3.07-亿美元，灰度-GBTC-净流出-1.99-亿美元-](https://www.chaincatcher.com/article/2119660) ![](/assets/new.png)  
+- [2024-04-06--香港财政司副司长：将继续与更多的行业参与者合作推动香港-Web3-行业发展-](https://www.chaincatcher.com/article/2119661) ![](/assets/new.png)  
+- [2024-04-06--Solana-Q1状态报告：Solana-日均现货-DEX-交易量环比增长-319%-至-15-亿美元-](https://www.chaincatcher.com/article/2119662) ![](/assets/new.png)  
+- [2024-04-06--ByteTrade-Lab-与加州大学伯克利分校合作，启动去中心化-AI-基础设施项目-GaiaNet-](https://www.chaincatcher.com/article/2119663) ![](/assets/new.png)  
+- [2024-04-06--Cathie-Wood：游戏是-AI-和-Web3-结合发展的前沿领域-](https://www.chaincatcher.com/article/2119664) ![](/assets/new.png)  
+- [2024-04-06--Heroes-of-Mavia-将于-5-月-5-日推出-Ruby-市场-](https://www.chaincatcher.com/article/2119665) ![](/assets/new.png)  
+- [2024-04-06--Cathie-Wood：2030-年比特币将达到-150-万美元-](https://www.chaincatcher.com/article/2119666) ![](/assets/new.png)  
+- [2024-04-06--香港虚拟资产行业协会秘书长：香港发展虚拟资产还有三个结构性的问题需要解决-](https://www.chaincatcher.com/article/2119667) ![](/assets/new.png)  
+- [2024-04-06--Ordinals-开发者：Runestone-NFT-持有者将获得三种-Runes-Memecoin-空投-](https://www.chaincatcher.com/article/2119668) ![](/assets/new.png)  
+- [2024-04-06--Farcaster-推出扩展程序-Farcaster-Actions，可在-Warpcast、Nook-和-Buttrfly-上运行-](https://www.chaincatcher.com/article/2119669) ![](/assets/new.png)  
+- [2024-04-06--Solv-Protocol-推出-Solv-积分系统-](https://www.chaincatcher.com/article/2119670) ![](/assets/new.png)  
+- [2024-04-06--慢雾：BXH-漏洞利用者将总计-9491-枚-ETH-转移到-Tornado.Cash-](https://www.chaincatcher.com/article/2119671) ![](/assets/new.png)  
+- [2024-04-06--数据：比特币现货-ETF-昨日总净流入-2.03-亿美元，-贝莱德-ETF-IBIT-净流入-3.08-亿美元-](https://www.chaincatcher.com/article/2119672) ![](/assets/new.png)  
+- [2024-04-06--一级投研者社区-All-In-Club-与加密货币流动性服务商-Tide-Groups-携手在香港举办亚洲投资者酒会-](https://www.chaincatcher.com/article/2119673) ![](/assets/new.png)  
+- [2024-04-06--HashKey-Capital-CEO-邓超对话-Cathie-Wood-全文：香港监管机构起到了非常好的牵头作用-](https://www.chaincatcher.com/article/2119674) ![](/assets/new.png)  
 - [......【查看更多】......](/details/链捕手.md)
-
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="node-weekly">
- Node-Weekly
-</summary>
-
-
-- [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
-- [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
-- [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)  
-- [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)  
-- [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>

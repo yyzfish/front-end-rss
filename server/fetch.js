@@ -14,8 +14,15 @@ try {
 async function fetchFeed(rss) {
   const parser = new Parser({
     headers: {
-      'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1'
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 
     },
+    xml2js: {
+      emptyTag: '--EMPTY--',
+    },
+    requestOptions: {
+      rejectUnauthorized: false
+    }
   })
 
   try {
@@ -24,7 +31,9 @@ async function fetchFeed(rss) {
       utils.logSuccess('成功 RSS: ' + rss)
       return feed
     }
-  } catch (e) {}
+  } catch (e) {
+    console.log(e)
+  }
 
   utils.logWarn('失败 RSS: ' + rss)
   return true
