@@ -1,5 +1,9 @@
 [
   {
+    "title": "星球日报ODAILY",
+    "rss": "https://www.odaily.news/v1/openapi/odailyrss"
+  },
+  {
     "title": "Node-Weekly",
     "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
   }

@@ -1,8 +1,7 @@
 [
   {
-    "tag": "React",
-    "filename": "react",
-    "keywords": "React|Rax|Nerv|Redux|useState|useEffect|useCallback|useRef|useMemo|Hooks?|Suspense",
-    "skill": true
+    "tag": "其它",
+    "filename": "other",
+    "keywords": ""
   }
 ]

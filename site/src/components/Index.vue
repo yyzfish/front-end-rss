@@ -127,7 +127,7 @@ const sortArray = (arr) => {
   })
 }
 
-const hotwords = ['React', 'Vue', 'JavaScript', 'Webpack', 'TypeScript', 'Node', 'CSS', 'Canvas', 'Flutter', 'ES6', '小程序', '浏览器']
+const hotwords = ['React']
 
 const TODAY = dayjs().format('YYYY-MM-DD')
 const ranges = [{
@@ -160,7 +160,7 @@ export default {
       searchValue: '',
       showCate: false,
       // 默认只展示技能相关文章
-      matchSkill: true,
+      matchSkill: false,
       hotwords,
       ranges,
       rss: [],
