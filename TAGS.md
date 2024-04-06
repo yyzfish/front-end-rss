@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-06 20:45:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-06 21:07:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -17,26 +17,26 @@
 
 
 
-- [【星球日报ODAILY】Fantom基金会将Curve-Finance创始人Michael-Egorov引入为天使投资人](https://www.odaily.news/newsflash/362866)
-- [【星球日报ODAILY】Conflux宣布推出开发者大使计划](https://www.odaily.news/newsflash/362867)
-- [【星球日报ODAILY】一文看懂Cregis-Crypto-Card：连接加密世界与传统金融](https://www.odaily.news/post/5194336)
-- [【星球日报ODAILY】Hifi-Finance对RWA框架进行改进，拟支持处理更多抵押品](https://www.odaily.news/newsflash/362868)
-- [【星球日报ODAILY】Web3社交模拟游戏Today完成500万美元种子轮融资，Sfermion等领投](https://www.odaily.news/newsflash/362869)
-- [【星球日报ODAILY】德意志交易所已上市资管公司DWS比特币与以太坊ETC产品](https://www.odaily.news/newsflash/362870)
-- [【星球日报ODAILY】MOEW：已向90381个BWB积分持有者进行空投，剩余代币将全部销毁](https://www.odaily.news/newsflash/362871)
-- [【星球日报ODAILY】摩根大通：美国证券交易委员会最终将批准现货以太坊ETF-](https://www.odaily.news/newsflash/362872)
-- [【星球日报ODAILY】黑山最高法院已将Do-Kown引渡案发回下级法院重新裁决](https://www.odaily.news/newsflash/362873)
-- [【星球日报ODAILY】Cyvers-Alerts：BXH黑客将202枚ETH转至中间地址后流入Tornado-Cash](https://www.odaily.news/newsflash/362874)
-- [【星球日报ODAILY】美联储理事鲍曼：现在还不是降息的时候](https://www.odaily.news/newsflash/362875)
-- [【星球日报ODAILY】印度央行扩展CBDC钱包服务范围，交易量逐步趋缓](https://www.odaily.news/newsflash/362876)
-- [【星球日报ODAILY】Pyth喂价服务已在Parallel-Network上推出](https://www.odaily.news/newsflash/362877)
-- [【星球日报ODAILY】Rivus-DAO已通过LBP筹集423万美元](https://www.odaily.news/newsflash/362878)
-- [【星球日报ODAILY】Meme项目LADYS：将预售持有者的归属时间从88天缩短到80天](https://www.odaily.news/newsflash/362879)
-- [【星球日报ODAILY】Terraform联合创始人Do-Kwon被裁定对民事欺诈负有责任](https://www.odaily.news/newsflash/362880)
-- [【星球日报ODAILY】Solana链的Froganas-NFT系列过去24小时销售额达145万美元，增长20.4%](https://www.odaily.news/newsflash/362881)
-- [【星球日报ODAILY】Coinbase消费者诉讼因证券索赔在上诉中被重新审视](https://www.odaily.news/newsflash/362882)
-- [【星球日报ODAILY】昨日贝莱德IBIT净流入3.091亿美元](https://www.odaily.news/newsflash/362883)
-- [【星球日报ODAILY】Polyhedra-Network比特币互操作协议再获来自ether.fi的30亿美元加密经济安全保障](https://www.odaily.news/newsflash/362884)
+- [【星球日报ODAILY】OKX香港执行董事Frank：RWA赛道的机遇、风险与未来-](https://www.odaily.news/post/5194349)
+- [【星球日报ODAILY】社区生态-|-​孙宇晨：波场生态发展活动已达到历史最高水平](https://www.odaily.news/post/5194345)
+- [【星球日报ODAILY】社区生态-|-波场TRON带你第一视角直击Oak-Grove-Crypto-2024活动现场](https://www.odaily.news/post/5194348)
+- [【星球日报ODAILY】社区生态-|-TRX上线印度加密交易平台Pi42](https://www.odaily.news/post/5194347)
+- [【星球日报ODAILY】数据突破-|-TRC20-USDT发行量突破568亿枚，创历史新高](https://www.odaily.news/post/5194346)
+- [【星球日报ODAILY】星球晚讯](https://www.odaily.news/newsflash/362987)
+- [【星球日报ODAILY】社区生态-|-波场TRON已成为哈佛区块链会议HBC2024合作伙伴](https://www.odaily.news/post/5194344)
+- [【星球日报ODAILY】数据播报-|-波场链上稳定币本周日均转账额超151亿美元](https://www.odaily.news/post/5194343)
+- [【星球日报ODAILY】社区生态-|-​孙宇晨：波场TRON推出比特币Layer2解决方案将打造双赢局面](https://www.odaily.news/post/5194342)
+- [【星球日报ODAILY】Base-Swatch-NFT以10-ETH价格售出](https://www.odaily.news/newsflash/362986)
+- [【星球日报ODAILY】Google起诉两名中国软件开发者，指控其利用虚假加密App进行诈骗](https://www.odaily.news/newsflash/362985)
+- [【星球日报ODAILY】比特币链上NFT-24H交易量增长101%](https://www.odaily.news/newsflash/362984)
+- [【星球日报ODAILY】稳定币总市值过去一周增长2.73%，达1545亿美元](https://www.odaily.news/newsflash/362983)
+- [【星球日报ODAILY】AINN-Layer2首日TVL超6亿美元，目前排名DefiLlama-Layer2-首日TVL前列](https://www.odaily.news/newsflash/362981)
+- [【星球日报ODAILY】Solana上挖矿项目Ore-24H涨幅8.16%](https://www.odaily.news/newsflash/362980)
+- [【星球日报ODAILY】当FHE遇上Restaking：一文读懂行业新贵Mind-Network](https://www.odaily.news/post/5194337)
+- [【星球日报ODAILY】休眠超10年的比特币鲸鱼地址刚刚转出246枚比特币，地址浮盈超1亿美元](https://www.odaily.news/newsflash/362979)
+- [【星球日报ODAILY】Genesis在出售GBTC份额后买入32,041枚比特币用以偿还客户](https://www.odaily.news/newsflash/362978)
+- [【星球日报ODAILY】Prisma-Finance恢复协议并重启借贷交易两项提案均已达到投票法定人数](https://www.odaily.news/newsflash/362977)
+- [【星球日报ODAILY】OKX香港执行董事Frank：与AI结合等或成为RWA未来应用场景与创新方向](https://www.odaily.news/newsflash/362976)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
